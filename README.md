@@ -8,7 +8,8 @@ Abaixo estão listados alguns conceitos e frameworks utilizados na implementaç�
 * Repository Pattern
 * IoC (Dependency Injection) Microsoft
 * Entity Framework core
-* AutoMapper DTO
+* AutoMapper 
+* DTO and Domain Model
 * FluentValidation
 * Relational DataBase SQL Server
 * NoSQL MongoDb
