@@ -14,7 +14,7 @@ Abaixo estão listados alguns conceitos e frameworks utilizados na implementaç�
 * Relational DataBase SQL Server
 * NoSQL MongoDb
 * Authentication JWT
-* Messaging RabbitMQ
+* Messaging ServiceBus
 * GrayLog
 * Consul config manager
-* Unit test XUnit
+* Unit test NUnit
