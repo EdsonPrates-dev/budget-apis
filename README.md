@@ -5,6 +5,7 @@ Apis de crud desenvolvidas em .net core 2.2 com o intuito de unificar conhecimen
 Abaixo estão listados alguns conceitos e frameworks utilizados na implementação:
 
 * Swagger
+* Authentication JWT
 * Repository Pattern
 * IoC (Dependency Injection) Microsoft
 * Entity Framework core
@@ -12,9 +13,4 @@ Abaixo estão listados alguns conceitos e frameworks utilizados na implementaç�
 * DTO and Domain Model
 * FluentValidation
 * Relational DataBase SQL Server
-* NoSQL MongoDb
-* Authentication JWT
-* Messaging ServiceBus
-* GrayLog
-* Consul config manager
-* Unit test NUnit
+* Unit test (NUnit)
