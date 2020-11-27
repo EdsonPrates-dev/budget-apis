@@ -1,4 +1,4 @@
-# APIS-de-Orçamento
+# apis-de-Orcaamento
 
 Apis de crud desenvolvidas em .net core 2.2 com o intuito de unificar conhecimentos específicos, conceitos, implementações e frameworks. Focando em praticar e configurar alguns conhecimentos adquiridos de forma estruturada e separando responsabilidades.
 
