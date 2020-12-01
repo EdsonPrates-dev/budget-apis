@@ -6,11 +6,12 @@ Abaixo estão listados alguns conceitos e frameworks utilizados na implementaç�
 
 * Swagger
 * Authentication JWT
+* Functional Handling errors
 * Repository Pattern
+* FluentValidation
 * IoC (Dependency Injection) Microsoft
 * Entity Framework core
 * AutoMapper 
 * DTO and Domain Model
-* FluentValidation
 * Relational DataBase SQL Server
 * Unit test (NUnit)
