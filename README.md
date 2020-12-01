@@ -1,6 +1,6 @@
 # apis-de-orcamento
 
-Apis de crud desenvolvidas em .net core 2.2 com o intuito de unificar conhecimentos específicos, conceitos, implementações e frameworks. Focando em praticar e configurar alguns conhecimentos adquiridos de forma estruturada e separando responsabilidades.
+Apis de crud desenvolvidas em .net core 2.2 com o intuito de unificar conhecimentos específicos, conceitos arquiteturais, implementações e frameworks. Focando em praticar e configurar alguns conhecimentos adquiridos de forma estruturada e separando responsabilidades.
 
 Abaixo estão listados alguns conceitos e frameworks utilizados na implementação:
 
