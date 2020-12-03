@@ -1,0 +1,3 @@
+catalogContext = Data Source=ltmsqllivehml.eastus.cloudapp.azure.com,1434;Initial Catalog=PRD_DB_AZU_Live_Catalog;Persist Security Info=True;User ID=aplic.QAmrktplac;Password=HnQo5MVdekUk8k;MultipleActiveResultSets=True
+managementContext = Data Source=ltmsqllivehml.eastus.cloudapp.azure.com,1434;Initial Catalog=PRD_DB_AZU_LIVE_ManagementCore;Persist Security Info=True;User ID=aplic.QAmrktplac;Password=HnQo5MVdekUk8k;MultipleActiveResultSets=True
+supplierContext = Data Source=ltmsqllivehml.eastus.cloudapp.azure.com,1434;Initial Catalog=PRD_DB_AZU_Live_Supplier;Persist Security Info=True;User ID=aplic.QAmrktplac;Password=HnQo5MVdekUk8k;MultipleActiveResultSets=True

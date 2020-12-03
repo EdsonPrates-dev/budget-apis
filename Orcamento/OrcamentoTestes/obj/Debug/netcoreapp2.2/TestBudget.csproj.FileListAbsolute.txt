@@ -1,0 +1,17 @@
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\OrcamentoTestes\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\OrcamentoTestes\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\OrcamentoTestes\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\OrcamentoTestes\bin\Debug\netcoreapp2.2\TestBudget.deps.json
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\OrcamentoTestes\bin\Debug\netcoreapp2.2\TestBudget.runtimeconfig.json
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\OrcamentoTestes\bin\Debug\netcoreapp2.2\TestBudget.runtimeconfig.dev.json
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\OrcamentoTestes\bin\Debug\netcoreapp2.2\TestBudget.dll
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\OrcamentoTestes\obj\Debug\netcoreapp2.2\TestBudget.csprojAssemblyReference.cache
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\OrcamentoTestes\obj\Debug\netcoreapp2.2\TestBudget.csproj.CoreCompileInputs.cache
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\OrcamentoTestes\obj\Debug\netcoreapp2.2\TestBudget.AssemblyInfoInputs.cache
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\OrcamentoTestes\obj\Debug\netcoreapp2.2\TestBudget.AssemblyInfo.cs
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\OrcamentoTestes\bin\Debug\netcoreapp2.2\TestBudget.pdb
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\OrcamentoTestes\bin\Debug\netcoreapp2.2\Budget.Api.dll
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\OrcamentoTestes\bin\Debug\netcoreapp2.2\Budget.Api.pdb
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\OrcamentoTestes\obj\Debug\netcoreapp2.2\TestBudget.csproj.CopyComplete
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\OrcamentoTestes\obj\Debug\netcoreapp2.2\TestBudget.dll
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\OrcamentoTestes\obj\Debug\netcoreapp2.2\TestBudget.pdb

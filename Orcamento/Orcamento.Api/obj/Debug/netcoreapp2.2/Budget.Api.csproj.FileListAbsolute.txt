@@ -1,0 +1,15 @@
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\Orcamento.Api\bin\Debug\netcoreapp2.2\Orcamento.API.xml
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\Orcamento.Api\bin\Debug\netcoreapp2.2\Budget.Api.deps.json
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\Orcamento.Api\bin\Debug\netcoreapp2.2\Budget.Api.runtimeconfig.json
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\Orcamento.Api\bin\Debug\netcoreapp2.2\Budget.Api.runtimeconfig.dev.json
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\Orcamento.Api\bin\Debug\netcoreapp2.2\Budget.Api.dll
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\Orcamento.Api\bin\Debug\netcoreapp2.2\Budget.Api.pdb
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\Orcamento.Api\obj\Debug\netcoreapp2.2\Budget.Api.csproj.CoreCompileInputs.cache
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\Orcamento.Api\obj\Debug\netcoreapp2.2\Budget.Api.RazorAssemblyInfo.cache
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\Orcamento.Api\obj\Debug\netcoreapp2.2\Budget.Api.RazorAssemblyInfo.cs
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\Orcamento.Api\obj\Debug\netcoreapp2.2\Budget.Api.AssemblyInfoInputs.cache
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\Orcamento.Api\obj\Debug\netcoreapp2.2\Budget.Api.AssemblyInfo.cs
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\Orcamento.Api\obj\Debug\netcoreapp2.2\Budget.Api.RazorTargetAssemblyInfo.cache
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\Orcamento.Api\obj\Debug\netcoreapp2.2\Budget.Api.dll
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\Orcamento.Api\obj\Debug\netcoreapp2.2\Budget.Api.pdb
+C:\Users\edson.prates\Desktop\Projeto\Orcamento\Orcamento.Api\obj\Debug\netcoreapp2.2\Budget.Api.csprojAssemblyReference.cache
